@@ -1,5 +1,16 @@
 package DharmajaBasic1;
 import org.testng.annotations.Test;
+/*
+ * Login
+ * Amajon
+ * Logout
+ * 
+ * 
+ * 
+ */
+
+
+
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.testng.annotations.BeforeTest;
